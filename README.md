@@ -2,6 +2,13 @@
 
 I'm Hugo and I'm currently a ECU Computer Science Student
 
+### I'm currently learning:
+- CSI2441	Applications Development
+- CSG2344	Project Methods and Professionalism
+
+### I'm currently working on:
+- Fitness tracking app
+
 <!--
 **hssantana92/hssantana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
