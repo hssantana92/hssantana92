@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Hugo and I'm in my final year of Computer Science at ECU Western Australia with three more units left to complete.
+I'm Hugo and I'm in my final year of Computer Science at ECU with three more units left to complete. I have a passion for software engineering but am also venturing into the cyber security side of things this year. My favoured languages are C#, Python, and PHP.
 
 ### I'm currently learning:
 - .NET Maui with C# and XAML
