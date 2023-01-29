@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
 
-I'm Hugo and I'm currently a ECU Computer Science Student
+I'm Hugo and I'm in my final year of Computer Science at ECU Western Australia with three more units left to complete.
 
 ### I'm currently learning:
-- CSI2441	Applications Development
-- CSG2344	Project Methods and Professionalism
+- .NET Maui with C# and XAML
+- Software Testing
+- Software Architecture & Design
+- Ethical Hacking and Defence
 
 ### I'm currently working on:
 - Fitness tracking app
+- Smart Light Controller
 
 <!--
 **hssantana92/hssantana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
