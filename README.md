@@ -9,7 +9,7 @@ I'm Hugo and I'm a recent Computer Science grad with a passion for software engi
 - Ethical Hacking and Defence
 
 ### I'm currently working on:
-- Smart Light Controller
+- An all in one smart home controller
 
 <!--
 **hssantana92/hssantana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
