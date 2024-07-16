@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Hugo and I'm in my final year of Computer Science with three more units left to complete. I have a passion for software engineering but am also venturing into the cyber security side of things this year. I am most proficient in C#, Python, & PHP
+I'm Hugo and I'm a recent Computer Science grad with a passion for software engineering but am also venturing into the cyber security side of things this year. I am most proficient in C#, Python, & PHP. I'm also working on a next.js typescript project at the moment to gain skills with this framework and language.
 
 ### I'm currently learning:
 - .NET Maui with C# and XAML
