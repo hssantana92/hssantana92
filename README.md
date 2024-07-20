@@ -7,9 +7,10 @@ I'm Hugo and I'm a recent Computer Science grad with a passion for software engi
 - Software Testing
 - Software Architecture & Design
 - Ethical Hacking and Defence
+- Spanish! 
 
 ### I'm currently working on:
-- An all in one smart home controller
+- An all in one smart home controller with TypeScript and Next.js framework
 
 <!--
 **hssantana92/hssantana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
