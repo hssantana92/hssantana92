@@ -11,6 +11,7 @@ I'm Hugo and I'm a recent Computer Science grad with a passion for software engi
 
 ### I'm currently working on:
 - An all in one smart home controller with TypeScript and Next.js framework
+- An app to learn Russian using TypeScript and Next.js
 
 <!--
 **hssantana92/hssantana92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
