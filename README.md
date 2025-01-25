@@ -2,13 +2,6 @@
 
 I'm Hugo and I'm a recent Computer Science grad with a passion for software engineering but am also venturing into the cyber security side of things this year. I am most proficient in C#, Python, & PHP. I'm also working on a next.js typescript project at the moment to gain skills with this framework and language.
 
-### I'm currently learning:
-- .NET Maui with C# and XAML
-- Software Testing
-- Software Architecture & Design
-- Ethical Hacking and Defence
-- Spanish! 
-
 ### I'm currently working on:
 - An all in one smart home controller with TypeScript and Next.js framework
 - An app to learn Russian using TypeScript and Next.js
